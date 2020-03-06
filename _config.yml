@@ -1,10 +1,10 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
+title: 퉤니포 서연쓰
+tagline: 'Data Artist'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: 
 url: https://shanny924.github.io
-logo: '/public/logo.png'
+logo: '/public/shanny.png'
 
 # Site configurations
 gems:
@@ -24,9 +24,9 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
+  name: Seoyeon Jun
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  gravatar: 265f17aa8c362a2ab48d7aecd8707ba6
   contact:
     linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/codinfox
