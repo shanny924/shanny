@@ -4,7 +4,7 @@ tagline: 'Data Artist'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: 
 url: https://shanny924.github.io
-logo: '/public/shanny.png'
+logo: '/public/shannycon.png'
 
 # Site configurations
 gems:
